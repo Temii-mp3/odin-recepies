@@ -1,2 +1,2 @@
 # odin-recepies
-Simole website following the odin project
+Simple website following the odin project
