@@ -1,2 +1,2 @@
 # odin-recepies
-Simple website following the odin project
+This is going to be a simole recepie website that contains basic use of HTML. 
